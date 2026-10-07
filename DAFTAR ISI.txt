@@ -163,3 +163,24 @@ C10_fading_rayleigh_rician_applsci_2018.pdf
 C11_multipath_fading_tutorial_mwjournal.pdf
 C12_rayleigh_hf_pier_2013.pdf
 C13_ber_ofdm_fading_ijecet.pdf
+
+=== PENAMBAHAN 7 OKTOBER 2026: ANTENA OMNIDIRECTIONAL ===
+File CST baru (10 file dari repo GitHub publik baru; terverifikasi file CST asli
+dan BUKAN duplikat koleksi lama via hash MD5):
+kycetin__Quad-Band-Monopole-Antenna-for-IoT-Applications/muhtas 3.cst
+kycetin__Quad-Band-Monopole-Antenna-for-IoT-Applications/muhtas3.cst
+osama1hatem2abdelkreem3__Monopole-antenna-semulation-by-CST/monopole.cst
+mahmut26__CST-Half-Wawe-Dipole-Antenna/L1.cst
+libi1984__Dipole_Antenna_CST/dipole_2.5.cst
+Huseyingurell__Dipole-Antenna-CST/600mhz dipol.cst
+ixccx__Printed-Dipole-Antenna-Design-CST/printed_Dipole_waleed.cst
+PSrihari2000__cst-studio-antenna-designs/Dipole3_5.cst
+PSrihari2000__cst-studio-antenna-designs/1x1_Bowtie_antenna.cst
+PSrihari2000__cst-studio-antenna-designs/1x5_Bowtie_antenna.cst
+
+Jurnal baru (3 PDF open-access, khusus antena omnidirectional):
+OMNI01_monopole_metasurface_cross_ground.pdf — Monopole Antenna with Enhanced Bandwidth and Stable Radiation Patterns Using Metasurface and Cross-Ground Structure (Sensors, 2022)
+OMNI02_freq_reconfigurable_folded_monopole_cognitive_radio.pdf — A Frequency Reconfigurable Folded Antenna for Cognitive Radio Communication (Micromachines, 2023)
+OMNI03_wearable_printed_monopole_system.pdf — Wideband, Wearable, Printed Monopole Antenna System (Sensors, 2023)
+
+Total isi folder sekarang: File CST 125 file, Jurnal 47 PDF.
